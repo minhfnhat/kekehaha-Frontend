@@ -1,0 +1,87 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash productivity, balance, and joy in your professional journey",
+        "title": "Transform Your Worklife"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unleash productivity, balance, and joy in your professional journey",
+        "title": "Transform Your Worklife"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Subscribe Now",
+        "description": "Subscribe to our newsletter to receive the latest updates on work, money, and life. Get exclusive insights, discounts, and early access to our new features.",
+        "emailLabel": "Your Email",
+        "heading": "Stay Updated with Our Worklife Newsletter"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash productivity, balance, and joy in your professional journey",
+        "title": "Transform Your Worklife"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unleash productivity, balance, and joy in your professional journey",
+        "title": "Transform Your Worklife"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash productivity, balance, and joy in your professional journey",
+        "title": "Transform Your Worklife"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash productivity, balance, and joy in your professional journey",
+        "title": "Transform Your Worklife"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash productivity, balance, and joy in your professional journey",
+        "title": "Transform Your Worklife"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash productivity, balance, and joy in your professional journey",
+        "title": "Transform Your Worklife"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash productivity, balance, and joy in your professional journey",
+        "title": "Transform Your Worklife"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash productivity, balance, and joy in your professional journey",
+        "title": "Transform Your Worklife"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Transform Your Worklife",
+  "subtitle": "Unleash productivity, balance, and joy in your professional journey"
+}
